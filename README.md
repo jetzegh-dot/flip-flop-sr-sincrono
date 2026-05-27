@@ -6,6 +6,9 @@
 ## Descripción
 Diseño, armado y simulación en Logisim de un Flip-Flop S-R síncrono utilizando compuertas AND y NOR, controlado por una señal de reloj dinámica (Clock) para analizar su comportamiento por flancos de subida.
 
+## Evidencia del Circuito Funcionando
+![Circuito Flip-Flop S-R](<Captura de pantalla 2026-05-26 201326.png>)
+
 ## Tabla de Verdad (Modo Síncrono)
 | Clock (Reloj) | S | R | Q | ~Q | Estado / Comportamiento |
 | :---: | :---: | :---: | :---: | :---: | :--- |
